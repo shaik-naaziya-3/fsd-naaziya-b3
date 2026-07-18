@@ -1,0 +1,22 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let age = 20;
+let marks = 95;
+let userName = "Naaziya";
+let college = "SVECW";
+let isStudent = true;
+let hasCompletedTask = false;
+let score = 100;
+let message = "Hello";
+let passed = true;
+age = 21;
+userName = "Shaik";
+isStudent = false;
+score = 200;
+console.log(age);
+console.log(userName);
+console.log(isStudent);
+console.log(score);
+console.log(message);
+console.log(passed);
+//# sourceMappingURL=datatypes.js.map

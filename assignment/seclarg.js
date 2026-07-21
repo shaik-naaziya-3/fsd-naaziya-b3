@@ -1,7 +1,7 @@
 "use strict";
 let numbers = [15, 40, 25, 60, 50];
-let largest = numbers[0];
-let secondLargest = numbers[0];
+let largest = 0;
+let secondLargest = 0;
 for (let num of numbers) {
     if (num > largest) {
         secondLargest = largest;
